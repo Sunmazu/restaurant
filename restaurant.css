@@ -25,10 +25,18 @@ p{
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
+    background-image: url("menu.jpg")
 }
 .row {
-    padding: 20px;
-    background-image: url("menu.jpg")
+    padding: 5px 30px;;
+}
+
+.row-1 {
+    padding: 10px 20px;
+}
+
+.text-about{
+    text-align:center;
 }
 /* menu base styles */
 
